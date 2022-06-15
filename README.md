@@ -17,7 +17,7 @@
 </div>
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=50&section=footer)
 
 <!---
 nidolight/nidolight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
