@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=100&text=Junho&nbspHur&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Junho&nbspHur&fontAlign=10&fontAlignY=40&color=gradient)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidolight&&show_icons=true&theme=white)  
 - Currently impersonating an AI Developer 
@@ -18,7 +18,7 @@
 </div>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
 
 <!---
 nidolight/nidolight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
