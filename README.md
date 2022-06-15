@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Junho&nbspHur&fontAlign=10&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junho%20Hur&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Currently%20impersonating%20an%20AI%20Developer&descAlignY=51&descAlign=62)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidolight&&show_icons=true&theme=white)  
 - Currently impersonating an AI Developer 
