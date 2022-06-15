@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=dark&height=200&section=header&text=Junho%20Hur&fontSize=65&animation=fadeIn&fontAlign=20&fontAlignY=38&desc=Currently%20impersonating%20an%20AI%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=200&section=header&text=Junho%20Hur&fontSize=65&animation=fadeIn&fontAlign=20&fontAlignY=38&desc=Currently%20impersonating%20an%20AI%20Developer&descAlignY=51&descAlign=62)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidolight&&show_icons=true&theme=blueberry)  
 
@@ -11,7 +11,7 @@
 
 <div align=right>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnidolight&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnidolightcount_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
