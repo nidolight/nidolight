@@ -1,20 +1,16 @@
-# Junho Hur : Currently impersonating an AI Developer 
+# Junho Hur
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidolight&&show_icons=true&theme=white)  
+- Currently impersonating an AI Developer 
 
-Hope to resemble a dream of spreading romance and healing to the society.🦢  
-Believe in the technological power as a measure of achieving goals.  
-Interested in `NLP` and `Generative Models`.  
-Proactive, sensitive, emotional and attractive.🥰 
 
 
 ## Experience 🎬
-- [19 Deep learning toy projects](https://github.com/crosstar1228/aiffel) and [8 tensorflow hands-on codes](https://github.com/crosstar1228/AIFFEL_TFmaster)
-- 1 and half year work experience Product Manager 
-- Deep learning projects([DeepASMR](https://github.com/crosstar1228/DeepASMR), [Text Summarization](https://github.com/crosstar1228/-DACON-Text_summarization), [kaggle_visitor_forecasting](https://github.com/crosstar1228/Aiffel_Kaggle))
-- Love [writing essays and poems](https://brunch.co.kr/@wptjd212) 🖋, singing🎤 and playing the guitar🎻(busking).
+- [17 Deep learning toy projects](https://github.com/nidolight/Aiffel_Exploration) and [7 computer vision tasks](https://github.com/nidolight/AIffel_GoingDeeper)
+- Deep learning projects([sim2real](https://github.com/nidolight/sim2real), [Savior_fridge](https://github.com/nidolight/Savior_fridge), [datathon_power_useage_forecasting](https://github.com/HRPzz/AIFFEL_HACKATHON_1))
+- Love singing🎤 and playing piano🎹.
 
 
-<div align=center>
+<div align=right>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnidolight&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
