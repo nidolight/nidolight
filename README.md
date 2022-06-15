@@ -17,7 +17,7 @@
 </div>
 
 
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=cylinder)
 
 <!---
 nidolight/nidolight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
