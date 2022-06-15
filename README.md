@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=100&text=Junho Hur&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=100&text='Junho Hur'&fontAlign=80&fontAlignY=40&color=gradient)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidolight&&show_icons=true&theme=white)  
 - Currently impersonating an AI Developer 
