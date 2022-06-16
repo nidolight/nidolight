@@ -6,7 +6,7 @@
 ## Experience 🎬
 - [17 Deep learning toy projects](https://github.com/nidolight/Aiffel_Exploration) and [7 computer vision tasks](https://github.com/nidolight/AIffel_GoingDeeper)
 - Deep learning projects([sim2real](https://github.com/nidolight/sim2real), [Savior_fridge](https://github.com/nidolight/Savior_fridge), [datathon_power_useage_forecasting](https://github.com/HRPzz/AIFFEL_HACKATHON_1))
-- Love various music🎵 and playing piano🎹.
+- Love music🎵 and playing piano🎹.
 
 
 <div align=right>
