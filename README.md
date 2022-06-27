@@ -7,6 +7,7 @@
 - Deep learning projects([sim2real](https://github.com/nidolight/sim2real), [Savior_fridge](https://github.com/nidolight/Savior_fridge), [datathon_power_useage_forecasting](https://github.com/HRPzz/AIFFEL_HACKATHON_1))
 - Love variety of music🎵 and playing piano🎹.
 
+
 <div align=right>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnidolight&count_bg=%233D5790&title_bg=%232F334B&icon=googlepodcasts.svg&icon_color=%234ACD91&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
