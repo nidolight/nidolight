@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=165&section=header&text=Junho&fontSize=50&animation=fadeIn&fontAlign=14&fontAlignY=30&desc=Hur&descAlignY=40&descAlign=25)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidolight&&show_icons=true&theme=blueberry)  
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nidolight&&show_icons=true&theme=blueberry)  
 
 ## Experience 🎬
 - [17 Deep learning toy projects](https://github.com/nidolight/Aiffel_Exploration) and [7 computer vision tasks](https://github.com/nidolight/AIffel_GoingDeeper)
