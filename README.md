@@ -26,30 +26,46 @@
 
 ![Java 17](https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-FF6B6B?style=flat-square&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-009688?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
-**Database & Performance**
+**Database & Cache**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![Optimization](https://img.shields.io/badge/Performance%20Tuning-FF6B6B?style=flat-square&logoColor=white)
+![Performance Tuning](https://img.shields.io/badge/Performance%20Tuning-FF6B6B?style=flat-square&logoColor=white)
 
-**Infrastructure**
+**Infrastructure & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white)
+![AWS EC2/S3](https://img.shields.io/badge/AWS%20EC2/S3-FF9900?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-60C659?style=flat-square&logo=Let's%20Encrypt&logoColor=white)
 
-**Frontend & Tools**
+**Frontend & Design**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+
+**AI & Development**
+
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=flat-square&logo=Anthropic&logoColor=white)
+![Cline](https://img.shields.io/badge/Cline-000000?style=flat-square&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-00A4EF?style=flat-square&logoColor=white)
+![Qwen LLM](https://img.shields.io/badge/Qwen%203.6%2027B-7C3AED?style=flat-square&logoColor=white)
+
+**Tools & Collaboration**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
 ---
 
