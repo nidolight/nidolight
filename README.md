@@ -102,13 +102,6 @@ Next.js 기반 4개 국어 지원 웹사이트 구축. Claude Code와 로컬 lla
 - **삼성청년 SW 아카데미(SSAFY)** · 2023.07 ~ 2024.06 · Java·웹 백엔드 중심 교육 · 프로젝트 우수상
 - **AIFFEL(모두의연구소)** · 2021.12 ~ 2023.06 · AI 기초부터 프로젝트까지 · 스타트업 연계 문제 해결
 
----
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nidolight&theme=blueberry&hide_border=true)](https://github.com/nidolight)
-
-</div>
 
 ---
 
