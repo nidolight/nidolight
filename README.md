@@ -85,8 +85,13 @@ Next.js 기반 4개 국어 지원 웹사이트 구축. Claude Code와 로컬 lla
 - **AIFFEL(모두의연구소)** · 2021.12 ~ 2023.06 · AI 기초부터 프로젝트까지 · 스타트업 연계 문제 해결
 - **영남대학교 컴퓨터공학과** · 2016.03 ~ 2023.02 · GPA 3.82/4.5 · OPIc 영어 AL
 
+---
 
+<div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nidolight&theme=blueberry&hide_border=true)](https://github.com/nidolight)
+
+</div>
 
 ---
 
