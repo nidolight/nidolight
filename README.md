@@ -29,7 +29,6 @@
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
 **Database & Cache**
 
@@ -41,16 +40,19 @@
 
 ![AWS EC2/S3](https://img.shields.io/badge/AWS%20EC2/S3-FF9900?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-60C659?style=flat-square&logo=Let's%20Encrypt&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
 **Frontend & Design**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 
@@ -99,7 +101,6 @@ Next.js 기반 4개 국어 지원 웹사이트 구축. Claude Code와 로컬 lla
 
 - **삼성청년 SW 아카데미(SSAFY)** · 2023.07 ~ 2024.06 · Java·웹 백엔드 중심 교육 · 프로젝트 우수상
 - **AIFFEL(모두의연구소)** · 2021.12 ~ 2023.06 · AI 기초부터 프로젝트까지 · 스타트업 연계 문제 해결
-- **영남대학교 컴퓨터공학과** · 2016.03 ~ 2023.02 · GPA 3.82/4.5 · OPIc 영어 AL
 
 ---
 
