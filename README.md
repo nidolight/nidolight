@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=200&section=header&text=Junho%20Hur&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Spring%20Boot%20%C2%B7%20Redis%20%C2%B7%20Backend%20Engineer&descSize=18&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=200&section=header&text=Junho%20Hur&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Spring%20Boot%20%C2%B7%20Backend%20Engineer&descSize=18&descAlignY=55&descAlign=50)
 
 <div align="center">
 
@@ -12,11 +12,11 @@
 
 ### 👋 About Me
 
-맡은 자리마다 **데이터가 어디서 막히는지** 먼저 봅니다. RDB 중심의 작업 큐를 Redis Sorted Set으로 옮겨 12배 성능 개선을 이루었고, 매 요청 DB 조회를 캐시로 옮기며 CORS 문제까지 해결했습니다.
+맡은 자리마다 병목이 어디서 발생하는지 먼저 봅니다. 창고 자동화 과제에서 Redis Sorted Set으로 우선순위 큐를 설계해 대기 시간에 따라 순위를 올려 starvation을 방지했고, Pipeline 일괄 처리로 100개 명령 기준 처리시간을 2.4ms → 0.4ms(약 6배)로 줄이며 부하 시 지연 편차도 3.8배 → 1.1배로 안정시켰습니다.
 
-만드는 것뿐 아니라 **직접 운영**해봤습니다. 1년간 서비스를 운영하며 기술보다 사용자 검증이 먼저라는 것을 배웠습니다. 이제는 최소 기능으로 수요를 먼저 확인한 뒤 확장합니다.
+만드는 것뿐 아니라 직접 운영해봤습니다. 외주로 맡은 매장 웹사이트를 기획부터 개발·배포·운영까지 단독으로 수행하며 약 1년간 상용 서비스를 운영했고, 전환율과 비용을 함께 고려해 서비스 종료를 판단하는 과정까지 경험했습니다.
 
-6인 프로젝트에서 팀장을 맡아 회고의 문제를 구조적으로 파악하고 진행 방식 변경으로 풀어본 경험이 있습니다.
+6인 팀의 팀장과 4인 팀의 배포 인프라를 맡으며, 판단의 배경을 기록해 두고 진행 상황을 먼저 공유하는 방식으로 협업해왔습니다. 각자의 역할을 존중하는 동시에 필요한 순간에는 함께 움직일 수 있는 동료로 일하고 싶습니다.
 
 ---
 
@@ -75,7 +75,7 @@
 
 **물류 자동화 지능형 창고 관리 시스템** · 2024.03 ~ 2024.05 · 6인 팀 팀장
 
-작업 큐를 RDB에서 Redis Sorted Set으로 옮겨 **18.9ms → 1.6ms(약 12배)** 성능 개선. Pipeline으로 Redis 왕복을 통합하고, 부하 시 지연 편차를 3.8배에서 1.1배로 안정화.
+작업 큐를 RDB에서 Redis Sorted Set으로 옮겨 **2.4ms → 0.4ms(약 6배)** 성능 개선. Pipeline으로 Redis 왕복을 통합하고, 부하 시 지연 편차를 3.8배에서 1.1배로 안정화.
 
 ---
 
